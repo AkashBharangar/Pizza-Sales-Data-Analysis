@@ -72,22 +72,17 @@ Here are some of the primary visualizations created for this project:
 
 ### Power BI Dashboard
 - Add screenshots of each Power BI dashboard view. Some examples:
-  - Sales Overview Dashboard
-  - Sales Heatmap by Day/Hour
-  - Revenue Breakdown by Pizza Type and Size
-
-To add images to your README:
-1. Save your screenshots in the repository folder (create an `images` folder if needed).
-2. Use this Markdown code to embed images:
-
-   ```markdown
-   ![Description of Image](images/filename.png)
+  - Overview Dashboard
+    ![Power BI Dashboard](https://github.com/AkashBharangar/Pizza-Sales-Data-Analysis/blob/e49dc8a0315f37f51568a7ad1f6fd0eb3829396a/Images/Power%20BI%20Dashboard.png)
+  - Best and Worst Sellers
+    ![Power BI Best/Worst Selelrs Dashboard](https://github.com/AkashBharangar/Pizza-Sales-Data-Analysis/blob/e49dc8a0315f37f51568a7ad1f6fd0eb3829396a/Images/Power%20BI%20Dashboard%20Pizza%20Sellers.png)
+ 
 
 ## 🚀 How to Use this Project
 1. Clone the repository:
 ```markdown
 !git clone https://github.com/AkashBharangar/Pizza-Sales-Data-Analysis.git
-
+```
 2. Access the data files and SQL scripts provided in the repository.
 
 3. Open the Power BI file (.pbix) to explore the interactive dashboard.
