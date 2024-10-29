@@ -69,7 +69,7 @@ Here are some of the primary visualizations created for this project:
 - Insert screenshots of Excel pivot tables or charts that highlight key insights (e.g., popular pizza type by size, monthly sales trend).
 
    ```markdown
-   ![MS Excel Dashboard](Images/MS Excel Dashboard.png)
+    ![MS Excel Dashboard](https://github.com/AkashBharangar/Pizza-Sales-Data-Analysis/blob/23ec73c850b630878494a45fd6301ddd2ae6473c/Images/MS%20Excel%20Dashboard.png)
 
 ### Power BI Dashboard
 - Add screenshots of each Power BI dashboard view. Some examples:
