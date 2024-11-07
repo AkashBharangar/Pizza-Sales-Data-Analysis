@@ -89,8 +89,8 @@ Here are some of the primary visualizations created for this project:
 
 4. Review the insights from the SQL scripts and Excel workbook to understand sales patterns and trends.
 
-###🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-###📜 License
+## 📜 License
 This project is licensed under the MIT License.
